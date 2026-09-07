@@ -1,6 +1,6 @@
 {
   "license": "0BSD",
-  "main": "index.js",
+  "main": "index.js"
   "scripts": {
     "vercel-build": "expo export --platform web",
     "start": "expo start",
